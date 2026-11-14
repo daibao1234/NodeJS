@@ -4,11 +4,11 @@
 
 Sử dụng Node.js kết hợp MongoDB để truy vấn, sắp xếp và cập nhật thông tin sinh viên trong database `qlsinhvien`, collection `students`.
 
-- Sử dụng `find()` kết hợp `$gte` để tìm sinh viên có điểm từ 7 trở lên.
-- Sử dụng `sort()` để sắp xếp danh sách theo điểm giảm dần.
-- Sử dụng `updateOne()` kết hợp `$set` để cập nhật điểm sinh viên theo mã sinh viên.
-- Sử dụng `findOne()` để hiển thị thông tin sau khi cập nhật.
-- Đóng kết nối MongoDB sau khi hoàn thành.
+ Sử dụng `find()` kết hợp `$gte` để tìm sinh viên có điểm từ 7 trở lên.
+ Sử dụng `sort()` để sắp xếp danh sách theo điểm giảm dần.
+ Sử dụng `updateOne()` kết hợp `$set` để cập nhật điểm sinh viên theo mã sinh viên.
+ Sử dụng `findOne()` để hiển thị thông tin sau khi cập nhật.
+ Đóng kết nối MongoDB sau khi hoàn thành.
 
 ## 2. Các bước thực hiện
 
