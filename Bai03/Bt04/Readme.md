@@ -4,11 +4,11 @@
 
 Sử dụng Node.js kết hợp thư viện MongoDB để thực hiện các thao tác với cơ sở dữ liệu.
 
-- Kết nối MongoDB đang chạy trên máy.
-- Sử dụng database `qlsinhvien` và collection `students`.
-- Sử dụng `insertMany()` để thêm 3 sinh viên gồm mã sinh viên, họ tên, tuổi và điểm.
-- Sử dụng `find()` để tìm và hiển thị danh sách sinh viên.
-- Đóng kết nối MongoDB sau khi hoàn thành.
+ Kết nối MongoDB đang chạy trên máy.
+ Sử dụng database `qlsinhvien` và collection `students`.
+ Sử dụng `insertMany()` để thêm 3 sinh viên gồm mã sinh viên, họ tên, tuổi và điểm.
+ Sử dụng `find()` để tìm và hiển thị danh sách sinh viên.
+ Đóng kết nối MongoDB sau khi hoàn thành.
 
 ## 2. Các bước thực hiện
 
