@@ -34,6 +34,7 @@ Chương trình chạy thành công, tính được điểm trung bình và xế
 
 **Kết quả chạy chương trình trên Terminal.**
 
-<img width="689" height="247" alt="anh 1 bai3 6" src="https://github.com/user-attachments/assets/082f2e30-84bb-458b-a652-435ef0c39a0e" />
+<img width="658" height="524" alt="anh bai 3 6" src="https://github.com/user-attachments/assets/0baf2115-2739-498b-a3f4-3c7bf7f1061b" />
+
 
 
