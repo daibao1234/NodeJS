@@ -1,0 +1,3 @@
+Hom nay toi thuc hanh Node.js voi module File System.
+Toi da hoc cach tao, ghi va doc noi dung tap tin.
+Bai thuc hanh giup toi lam quen voi rename() va unlink().
