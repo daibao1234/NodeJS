@@ -8,8 +8,8 @@ Sử dụng `module.exports` để xuất các hàm xử lý và `require()` đ�
 
 ## 2. Các tập tin chương trình
 
-- `xulyDiem.js`: Chứa hàm tính điểm trung bình và hàm xếp loại học tập.
-- `bai06.js`: Gọi module, tạo dữ liệu 3 sinh viên và hiển thị kết quả.
+ `xulyDiem.js`: Chứa hàm tính điểm trung bình và hàm xếp loại học tập.
+ `bai06.js`: Gọi module, tạo dữ liệu 3 sinh viên và hiển thị kết quả.
 
 ## 3. Các bước thực hiện
 
@@ -26,15 +26,13 @@ node bai06.js
 
 ## 4. Kết quả thực hiện
 
-Chương trình chạy thành công, tính được điểm trung bình và xếp loại học tập của 3 sinh viên theo đúng yêu cầu:
+Chương trình chạy thành công, tính được điểm trung bình và xếp loại học tập của 3 sinh viên:
 
-- Nguyen Van Minh: 8.00 – Giỏi.
-- Tran Thi Hoa: 7.00 – Khá.
-- Pham Quoc Bao: 4.00 – Yếu.
+ Nguyen Van Minh: 8.00 – Giỏi.
+ Tran Thi Hoa: 7.00 – Khá.
+ Pham Quoc Bao: 4.00 – Yếu.
 
-## 5. Hình ảnh minh chứng
-
-**Hình 1: Kết quả chạy chương trình trên Terminal.**
+**Kết quả chạy chương trình trên Terminal.**
 
 <img width="689" height="247" alt="anh 1 bai3 6" src="https://github.com/user-attachments/assets/8aaa7a9e-2db0-4377-88d8-eeab5a68ab89" />
 
