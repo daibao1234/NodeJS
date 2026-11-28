@@ -28,31 +28,33 @@ node app.js
 #### Hình 2: Giao diện Trang chủ (`/`)
 ![Trang chủ]
 
-<img width="1585" height="585" alt="B4_2" src="https://github.com/user-attachments/assets/aa0904cd-6df3-4c96-bfdd-8979749b45d0" />
+<img width="1529" height="767" alt="png 2" src="https://github.com/user-attachments/assets/93208bb7-2f30-4f44-a8e0-928cda15f17a" />
 
 
 #### Hình 3: Giao diện Trang Giới thiệu (`/about`)
 ![Trang giới thiệu]
 
-<img width="1587" height="661" alt="B4_3" src="https://github.com/user-attachments/assets/5e27d439-7510-46a4-a6a4-6a3adec9c1a4" />
+<img width="1561" height="842" alt="png 3" src="https://github.com/user-attachments/assets/25a581c8-9a6d-4452-ab4d-996b2ffa7cbf" />
+
 
 
 #### Hình 4: Giao diện Trang Kỹ năng (`/skills`)
 ![Trang kỹ năng]
 
-<img width="1598" height="670" alt="B4_4" src="https://github.com/user-attachments/assets/357ea451-7983-4412-aabe-653fce585284" />
+<img width="1202" height="748" alt="png 4" src="https://github.com/user-attachments/assets/2000d912-94fc-411e-8b29-c707a0700ab2" />
 
 
 #### Hình 5: Giao diện Trang Sở thích 
 ![Trang sở thích và liên hệ]
 
-<img width="1600" height="583" alt="B4_5" src="https://github.com/user-attachments/assets/ebd148c7-ce24-48b8-90eb-a18b9d84cf4c" />
+<img width="1287" height="701" alt="image" src="https://github.com/user-attachments/assets/79def149-6f07-4114-b1d7-f9a72700d74d" />
 
 
 #### Hình 6: Xử lý đường dẫn không tồn tại (HTTP 404)
 ![Trang lỗi 404]
 
-<img width="1592" height="666" alt="B4_6" src="https://github.com/user-attachments/assets/9e377a56-99a6-4789-9f52-8e92493abd16" />
+<img width="1600" height="840" alt="png 6" src="https://github.com/user-attachments/assets/ee954d98-1436-4f58-b1b5-19e2f8efbd87" />
+
 
 
 ---
@@ -92,4 +94,5 @@ node app.js
 #### Hình 8: Kết quả truy cập website thực tế qua tên miền Render
 ![Website hoạt động trên Render]
 
-<img width="1596" height="678" alt="B4_8" src="https://github.com/user-attachments/assets/68c06ea8-944a-4ec3-a839-888232ba192f" />
+<img width="1600" height="855" alt="png 8" src="https://github.com/user-attachments/assets/f07b8776-5503-4b6d-8b37-228de8897f8a" />
+
